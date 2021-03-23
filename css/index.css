@@ -1,0 +1,41 @@
+body{
+    font-family: "MS Pゴシック" ;
+}
+h1 {
+    font-size: 50px;
+    color:cadetblue;
+}
+main p{
+    font-size: 22px;
+    color:teal;
+    padding-left: 30px;
+    padding-right: 60px;
+}
+h4{
+    font-size: 22px;
+    color:teal;
+    padding-left: 30px;
+    padding-right: 60px;
+}
+h2 {
+    border-left: solid 6px cadetblue;
+    padding-left: 15px; 
+    font-size: 40px;
+    color:cadetblue;
+}
+h3 {
+    padding-left: 30px; 
+    color:cadetblue;
+    font-size: 30px;
+}
+details summary {
+    color: transparent;
+}
+details summary span {
+    color: #000;
+}
+a {
+    text-decoration: none;
+    color: whitesmoke;
+    padding-left: 60px;
+}

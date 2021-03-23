@@ -1,0 +1,18 @@
+h1 {
+    font-size:50px;
+    color:cadetblue;
+}
+h2 {
+    font-size: 30px;
+    margin-left: 30px;
+    padding-left: 30px;
+    color:cadetblue;
+    border-left: solid 6px cadetblue;
+}
+div img {
+    padding-top: 30px;
+    padding-left: 60px;
+}
+a {
+    text-decoration:none;
+}
